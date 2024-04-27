@@ -75,7 +75,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-    <a href=https://github.com/alopezfederico/Invesment_Recomendation_Project">
+    <a href=https://github.com/alopezfederico/Invesment_Recomendation_Project>
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=alopezfederico&repo=cryptos&theme=nightowl&show_owner=true" alt="Invesment recomendations" />
         </a>
       </p>
